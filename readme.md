@@ -34,7 +34,7 @@ A very interesting thing is that the money system seems to be binary based
 Converting into US dollars gave me these values
 
 ```
-** 5lb Baking Flour - Barly Cost: $13.00 **
+** If a measure of barley cost the same as a 5lb Baking Flour: $13.00 **
 $1.62 - silver leah
 $3.25 - silver shiblum
 $6.50 - silver shiblon
@@ -44,7 +44,7 @@ $26.00 - silver amnor, gold seon
 $52.00 - silver ezrom, gold shum
 $91.00 - silver onti, gold limnah
 
-** congress person dalily wage - Barly Cost: $478.02 **
+** If a measure of barley cost the same as a congress person dalily wage: $478.02 **
 $59.75 - silver leah
 $119.50 - silver shiblum
 $239.01 - silver shiblon
@@ -54,7 +54,7 @@ $956.04 - silver amnor, gold seon
 $1912.08 - silver ezrom, gold shum
 $3346.14 - silver onti, gold limnah
 
-** $1 - Barly Cost: $1.00 **
+** If a measure of barley cost the same as $1: $1.00 **
 $0.12 - silver leah
 $0.25 - silver shiblum
 $0.50 - silver shiblon
@@ -64,7 +64,7 @@ $2.00 - silver amnor, gold seon
 $4.00 - silver ezrom, gold shum
 $7.00 - silver onti, gold limnah
 
-** Silver leah (smallest at) $1 - Barly Cost: $8.00 **
+** If a measure of barley cost the same as $8 (leah the smallest coin = $1): $8.00 **
 $1.00 - silver leah
 $2.00 - silver shiblum
 $4.00 - silver shiblon
