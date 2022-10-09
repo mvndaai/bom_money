@@ -14,20 +14,20 @@ Bases of money
 
 A very interesting thing is that the money system seems to be binary based
 
-| name | material | value | equation | Book of Mormon description |
-| - | - | - | - | - |
-| Leah | Silver? | 1 | 2<sup>0</sup> | a leah is the half of a shiblum |
-| Shiblum | Silver? | 2 | 2<sup>1</sup> | a shiblum is a half of a shiblon |
-| Shiblon | Silver? | 4 | 2<sup>2</sup> | a shiblon is half of a senum |
-| Senum | Silver | 8 | 2<sup>3</sup> | a senum of silver, which is equal to a senine of gold |
-| Amnor | Silver | 16 | 2<sup>4</sup> | an amnor of silver was as great as two senums |
-| Ezrom | Silver | 32 | 2<sup>5</sup> | an ezrom of silver was as great as four senums |
-| Onti | Silver | 56 | 2<sup>3</sup>+2<sup>4</sup>+2<sup>5</sup> | an onti was as great as them all |
-| Antion | Gold | 12 | 2<sup>2</sup>+2<sup>3</sup> | antion of gold is equal to three shiblons |
-| Senine | Gold | 8 | 2<sup>3</sup> | a senum of silver, which is equal to a senine of gold |
-| Seon | Gold | 16 | 2<sup>4</sup> | a seon of gold was twice the value of a senine |
-| Shum | Gold | 32 | 2<sup>5</sup> | a shum of gold was twice the value of a seon |
-| Limnah | Gold | 56 | 2<sup>3</sup>+2<sup>4</sup>+2<sup>5</sup> | a limnah of gold was the value of them all |
+| name | material | value | equation | binary |Book of Mormon description |
+| - | - | - | - | - | - |
+| Leah | Silver? | 1 | 2<sup>0</sup> | 000001 | a leah is the half of a shiblum |
+| Shiblum | Silver? | 2 | 2<sup>1</sup> | 000010 | a shiblum is a half of a shiblon |
+| Shiblon | Silver? | 4 | 2<sup>2</sup> | 000100 | a shiblon is half of a senum |
+| Senum | Silver | 8 | 2<sup>3</sup> | 001000 | a senum of silver, which is equal to a senine of gold |
+| Amnor | Silver | 16 | 2<sup>4</sup> | 010000 |an amnor of silver was as great as two senums |
+| Ezrom | Silver | 32 | 2<sup>5</sup> | 100000 |an ezrom of silver was as great as four senums |
+| Onti | Silver | 56 | 2<sup>3</sup>+2<sup>4</sup>+2<sup>5</sup> | 111000 | an onti was as great as them all |
+| Antion | Gold | 12 | 2<sup>2</sup>+2<sup>3</sup> | 001100 | antion of gold is equal to three shiblons |
+| Senine | Gold | 8 | 2<sup>3</sup> | 001000 | a senum of silver, which is equal to a senine of gold |
+| Seon | Gold | 16 | 2<sup>4</sup> | 010000 | a seon of gold was twice the value of a senine |
+| Shum | Gold | 32 | 2<sup>5</sup> | 100000 | a shum of gold was twice the value of a seon |
+| Limnah | Gold | 56 | 2<sup>3</sup>+2<sup>4</sup>+2<sup>5</sup> | 111000 | a limnah of gold was the value of them all |
 
 <br><hr><br>
 
