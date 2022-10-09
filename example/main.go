@@ -7,7 +7,11 @@ import (
 )
 
 func main() {
+	bommath.PrintBinary()
+	printApproximations()
+}
 
+func printApproximations() {
 	approximations := []struct {
 		name           string
 		centsCostBarly int
@@ -21,7 +25,9 @@ func main() {
 	fmt.Println("Approximations:")
 	for _, a := range approximations {
 		fmt.Printf("** %s - Barly Cost: $%.2f **\n", a.name, float64(a.centsCostBarly)/100)
-		bommath.PrintDollarValuesArranged(a.centsCostBarly)
+		// bommath.PrintDollarValuesArranged(a.centsCostBarly)
+		// fmt.Println()
+		bommath.BinaryPrintDollarValuesArranged(a.centsCostBarly)
 		fmt.Println()
 	}
 }
