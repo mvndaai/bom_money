@@ -18,7 +18,7 @@ A very interesting thing is that the money system seems to be binary based
 | - | - | - | - | - |
 | Leah | Silver? | 1 | 2<sup>0</sup> | a leah is the half of a shiblum |
 | Shiblum | Silver? | 2 | 2<sup>1</sup> | a shiblum is a half of a shiblon |
-| Shiblon | Silver? | 4 | 2<sup>2</sup> | a shiblon is half of a senum; therefore [...] half a measure of barley |
+| Shiblon | Silver? | 4 | 2<sup>2</sup> | a shiblon is half of a senum |
 | Senum | Silver | 8 | 2<sup>3</sup> | a senum of silver, which is equal to a senine of gold |
 | Amnor | Silver | 16 | 2<sup>4</sup> | an amnor of silver was as great as two senums |
 | Ezrom | Silver | 32 | 2<sup>5</sup> | an ezrom of silver was as great as four senums |
